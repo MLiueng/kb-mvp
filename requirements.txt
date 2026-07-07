@@ -1,0 +1,12 @@
+# 知识库系统 MVP 依赖清单
+# 详见设计文档第十一章
+
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.9
+dashscope>=1.14.0
+openai>=1.12.0
+PyMuPDF>=1.23.0
+python-docx>=1.1.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
